@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Reborn",
+    "slug": "Reborn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Reborn"
+}

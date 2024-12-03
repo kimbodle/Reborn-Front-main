@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181847482255",
+    "project_id": "reborn-24a6b",
+    "storage_bucket": "reborn-24a6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181847482255:android:189c320f8c211ad7a3b5fa",
+        "android_client_info": {
+          "package_name": "com.reborn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToh8oOndQ6fFu1hnDzRro1r96PTBFzGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
